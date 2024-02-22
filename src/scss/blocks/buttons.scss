@@ -1,1 +1,23 @@
+/*
+BEM
 
+bloque: cualquier elemento que puede funcionar de manera independiente
+
+elemento --> cualquier elemento que forme parte de un bloque y no pueda usarse de forma indepenediente
+
+modificador --> se utiliza para modificar estilos de un bloque o de un elemento
+
+bloque
+
+bloque__elemento
+
+bloque--modificador
+
+elemento--modificador
+
+&--X --> dentro del padre para cambiar las cosas de él
+
+
+
+@mixin --> reutilizar código
+*/
